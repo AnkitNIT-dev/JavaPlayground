@@ -1,4 +1,4 @@
-package com.main;
+package com.misc;
 
 /**
  * This class demonstrates the importance of the standard main method signature
@@ -37,4 +37,7 @@ public class MainTest {
 	public static void main(String[] args) {
 		// your code is here
 	}
+
+	
+
 }
